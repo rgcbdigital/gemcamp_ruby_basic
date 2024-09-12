@@ -1,4 +1,3 @@
-negative_numbers = 0
 
 (-1..15).each do |number|
 
